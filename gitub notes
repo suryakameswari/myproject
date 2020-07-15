@@ -1,0 +1,5 @@
+git remote
+
+git remote add 'variablename' 'link'
+
+example : git remote add origin  https://github.com/suryakameswari/DemoProject1.git
